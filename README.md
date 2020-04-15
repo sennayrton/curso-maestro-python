@@ -1,1 +1,1 @@
-# cursoMaestroPython
+# curso-maestro-python
